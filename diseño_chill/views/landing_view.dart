@@ -140,7 +140,7 @@ class _LandingViewState extends State<LandingView> {
                 Text(
                   title,
                   style: TextStyle(
-                    color: Colors.purple[800],
+                    color: Colors.purple[700],
                     fontSize: 16,
                     fontWeight: FontWeight.bold,
                   ),
